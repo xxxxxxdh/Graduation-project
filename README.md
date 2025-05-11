@@ -70,7 +70,7 @@ The system includes four core recommendation models:
   - `Named Entity Recognition (NER)` – Extracts relevant skills, roles, companies  
   - `RoBERTa` – Deep contextual language model  
   - `All-MiniLM-L6-v2` – Efficient transformer sentence embeddings  
-  - **Modern BERT** – For advanced semantic understanding  
+  - `Modern BERT` – For advanced semantic understanding  
   - `DSSM` – Deep Semantic Structure Modeling (future scope)
 
 ---
@@ -89,11 +89,11 @@ The system includes four core recommendation models:
 
 
 ## 👩‍💻 Team
-- Sarah Fahad Alotaibi
-- Sema Saad Alshamrani
+- Sarah Alotaibi
+- Sema Alshamrani
 - Yasmeen Ammar 
-- Deema Khaled Alshehri
-- Dhiyaa Abdulaziz Alsalem
+- Deema Alshehri
+- Dhiyaa Alsalem
 
 ---
 
